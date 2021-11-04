@@ -1,0 +1,16 @@
+
+
+.sectionOnSession{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    padding: 1rem;
+ 
+  }
+
+
+
+
+
